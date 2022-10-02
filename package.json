@@ -1,0 +1,29 @@
+{
+  "name": "curso-poo-asincronismo-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sgutierrezgf/Curso-POO-asincronismo-TS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sgutierrezgf/Curso-POO-asincronismo-TS/issues"
+  },
+  "homepage": "https://github.com/Sgutierrezgf/Curso-POO-asincronismo-TS#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^7.5.0",
+    "axios": "^0.27.2",
+    "class-validator": "^0.13.2"
+  }
+}
